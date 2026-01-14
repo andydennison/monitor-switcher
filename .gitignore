@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+config.json
+*.log
+*.exe
+*.spec
+build/
+dist/
+.venv/
+venv/

@@ -1,0 +1,7 @@
+{
+    "home_machine_input": "HDMI-1",
+    "work_laptop_input": "HDMI-2",
+    "monitor_index": 0,
+    "check_interval": 2.0,
+    "last_active_machine": "home"
+}
